@@ -1,0 +1,11 @@
+.carousel slide{
+    border-radius: 15px;
+}
+.contaner{
+    width: 1940px;
+    margin: auto;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
